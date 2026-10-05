@@ -21,6 +21,10 @@ dev = [
     "ruff>=0.16.10",
 ]
 
+[tool.ruff]
+# Agent skills are vendored from an external repository
+extend-exclude = [".agents"]
+
 [[tool.mypy.overrides]]
 # power-grid-model-ds does not ship type information
 module = ["power_grid_model_ds", "power_grid_model_ds.*"]
