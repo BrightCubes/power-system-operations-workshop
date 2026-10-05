@@ -1,0 +1,12 @@
+# SPDX-FileCopyrightText: Bright Cubes 2026 <info@brightcubes.nl>
+#
+# SPDX-License-Identifier: MPL-2.0
+
+version = 1
+
+# Agent skills installed from https://github.com/BrightCubes/power-grid-model-ai
+[[annotations]]
+path = ".agents/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Bright Cubes 2026 <info@brightcubes.nl>"
+SPDX-License-Identifier = "MPL-2.0"
