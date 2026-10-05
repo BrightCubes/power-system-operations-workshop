@@ -64,16 +64,23 @@
     {"id": 3001, "node": 1, "status": 1, "u_ref": 1.0, "u_ref_angle": 0.0, "sk": 10000000000.0, "rx_ratio": 0.1, "z01_ratio": 1.0}
   ],
   "sym_load": [
-    {"id": 4001, "node": 18, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4002, "node": 18, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4003, "node": 18, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4004, "node": 19, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4005, "node": 20, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4006, "node": 21, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4007, "node": 21, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4008, "node": 21, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4009, "node": 22, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0},
-    {"id": 4010, "node": 23, "status": 1, "type": 0, "p_specified": 120000.0, "q_specified": 40000.0}
+    {"id": 4001, "node": 18, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4002, "node": 18, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4003, "node": 18, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4004, "node": 19, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4005, "node": 20, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4006, "node": 21, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4007, "node": 21, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4008, "node": 21, "status": 1, "type": 0, "p_specified": 166800.0, "q_specified": 55600.0},
+    {"id": 4009, "node": 22, "status": 1, "type": 0, "p_specified": 262300.0, "q_specified": 87400.0},
+    {"id": 4010, "node": 23, "status": 1, "type": 0, "p_specified": 20000.0, "q_specified": 6600.0}
+  ],
+  "sym_gen": [
+    {"id": 5001, "node": 18, "status": 1, "type": 0, "p_specified": 0.0, "q_specified": 0.0},
+    {"id": 5002, "node": 19, "status": 1, "type": 0, "p_specified": 0.0, "q_specified": 0.0},
+    {"id": 5003, "node": 20, "status": 1, "type": 0, "p_specified": 0.0, "q_specified": 0.0},
+    {"id": 5004, "node": 21, "status": 1, "type": 0, "p_specified": 0.0, "q_specified": 0.0},
+    {"id": 5005, "node": 22, "status": 1, "type": 0, "p_specified": 0.0, "q_specified": 0.0}
   ]
   }
 }
