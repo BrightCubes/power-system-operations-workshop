@@ -23,3 +23,7 @@ This workshop was loosely based on https://github.com/PowerGridModel/power-grid-
 2. Follow the workshop.
 3. You can find the answers in [power-grid-capacity-workshop-answers.ipynb](./power-grid-capacity-workshop-answers.ipynb) (or you can use it as a cheat-sheet).
 4. Good luck.
+
+## Need a hint?
+
+The [Power Grid Model AI assistant](https://github.com/BrightCubes/power-grid-model-ai) can help explain PGM concepts and APIs. Ask for a hint or explanation rather than a complete solution, and verify suggestions against the documentation and your own results.
