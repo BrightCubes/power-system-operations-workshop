@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: Bright Cubes 2026 <info@brightcubes.nl>
+#
+# SPDX-License-Identifier: MPL-2.0
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
