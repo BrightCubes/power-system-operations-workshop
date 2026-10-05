@@ -25,6 +25,10 @@ dev = [
 # Agent skills are vendored from an external repository
 extend-exclude = [".agents"]
 
+[tool.ruff.lint.per-file-ignores]
+# Participants still have to use some imports
+"*-assignment.ipynb" = ["F401"]
+
 [[tool.mypy.overrides]]
 # power-grid-model-ds does not ship type information
 module = ["power_grid_model_ds", "power_grid_model_ds.*"]
