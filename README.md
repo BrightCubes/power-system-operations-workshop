@@ -16,4 +16,4 @@ This workshop was loosely based on https://github.com/PowerGridModel/power-grid-
 2. Download or clone this repository, e.g. using `git clone git@github.com:PowerGridModel/power-grid-model-workshop.git`.
 3. Install `uv` using the steps in https://docs.astral.sh/uv/getting-started/installation/.
 4. Install the dependencies using `uv sync`
-
+5. Open the 
