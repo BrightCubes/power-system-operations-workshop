@@ -19,7 +19,7 @@ This workshop was loosely based on https://github.com/PowerGridModel/power-grid-
 
 ## Follow the assignment
 
-1. Open [power-system-operations-workshop-assignment.ipynb](./power-system-operations-workshop-assignment.ipynb) in a notebook editor of your choice and select the Python kernel from the `.venv` folder.
+1. Open [power-system-operations-workshop.ipynb](./power-system-operations-workshop.ipynb) in a notebook editor of your choice and select the Python kernel from the `.venv` folder.
 2. Follow the workshop.
 3. You can find the answers in [power-system-operations-workshop-answers.ipynb](./power-system-operations-workshop-answers.ipynb) (or you can use it as a cheat-sheet).
 4. Good luck.
