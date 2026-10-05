@@ -27,7 +27,7 @@ extend-exclude = [".agents"]
 
 [tool.ruff.lint.per-file-ignores]
 # Participants still have to use some imports
-"power-system-operations-workshop.ipynb" = ["F401"]
+"power-grid-capacity-workshop.ipynb" = ["F401"]
 
 [[tool.mypy.overrides]]
 # power-grid-model-ds does not ship type information
