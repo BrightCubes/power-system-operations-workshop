@@ -4,9 +4,9 @@ SPDX-FileCopyrightText: Bright Cubes 2026 <info@brightcubes.nl>
 SPDX-License-Identifier: MPL-2.0
 -->
 
-# power-system-operations-workshop
+# Power Grid Capacity Workshop
 
-A workshop on power system operations using Power Grid Model.
+A workshop on assessing grid capacity using Power Grid Model.
 
 This workshop was loosely based on https://github.com/PowerGridModel/power-grid-model-workshop.
 

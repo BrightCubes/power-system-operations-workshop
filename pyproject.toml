@@ -5,7 +5,7 @@
 [project]
 name = "power-system-operations-workshop"
 version = "0.1.0"
-description = "A workshop on power system operations using Power Grid Model."
+description = "A workshop on assessing grid capacity using Power Grid Model."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
