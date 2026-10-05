@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "pgm-assistant": {
+      "source": "BrightCubes/power-grid-model-ai",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/pgm-assistant/SKILL.md",
+      "computedHash": "ee4cbc67547f2eaacc5e00bf0fd7bb31f0cf1c062cda569e7a6eb97079ca9ac0"
+    },
+    "pgm-issue-analysis": {
+      "source": "BrightCubes/power-grid-model-ai",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/pgm-issue-analysis/SKILL.md",
+      "computedHash": "eb5aaa8ca13d4bf2ac1fdec4094d4e3e5fed15a783adb5ea0878599955ae18a8"
+    }
+  }
+}
