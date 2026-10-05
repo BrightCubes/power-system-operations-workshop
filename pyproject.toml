@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: Bright Cubes 2026 <info@brightcubes.nl>
+#
+# SPDX-License-Identifier: MPL-2.0
+
+[project]
+name = "power-system-operations-workshop"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
