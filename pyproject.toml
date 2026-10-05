@@ -17,5 +17,11 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "mypy>=2.4.0",
     "ruff>=0.16.10",
 ]
+
+[[tool.mypy.overrides]]
+# power-grid-model-ds does not ship type information
+module = ["power_grid_model_ds", "power_grid_model_ds.*"]
+ignore_missing_imports = true
